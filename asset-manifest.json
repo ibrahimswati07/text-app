@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ibrahimswati07/text-app.git/static/css/main.2543b9d3.css",
-    "main.js": "/ibrahimswati07/text-app.git/static/js/main.07090eef.js",
-    "static/js/787.d4898441.chunk.js": "/ibrahimswati07/text-app.git/static/js/787.d4898441.chunk.js",
-    "index.html": "/ibrahimswati07/text-app.git/index.html",
-    "main.2543b9d3.css.map": "/ibrahimswati07/text-app.git/static/css/main.2543b9d3.css.map",
-    "main.07090eef.js.map": "/ibrahimswati07/text-app.git/static/js/main.07090eef.js.map",
-    "787.d4898441.chunk.js.map": "/ibrahimswati07/text-app.git/static/js/787.d4898441.chunk.js.map"
+    "main.css": "/ibrahimswati07/text-app/static/css/main.2543b9d3.css",
+    "main.js": "/ibrahimswati07/text-app/static/js/main.b673159d.js",
+    "static/js/787.d4898441.chunk.js": "/ibrahimswati07/text-app/static/js/787.d4898441.chunk.js",
+    "index.html": "/ibrahimswati07/text-app/index.html",
+    "main.2543b9d3.css.map": "/ibrahimswati07/text-app/static/css/main.2543b9d3.css.map",
+    "main.b673159d.js.map": "/ibrahimswati07/text-app/static/js/main.b673159d.js.map",
+    "787.d4898441.chunk.js.map": "/ibrahimswati07/text-app/static/js/787.d4898441.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2543b9d3.css",
-    "static/js/main.07090eef.js"
+    "static/js/main.b673159d.js"
   ]
 }
